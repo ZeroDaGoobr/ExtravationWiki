@@ -6,15 +6,25 @@ font-family: 'Trebuchet MS', Arial, Verdana, sans-serif;
 Main Colors
 `````
 Black:0b0b0f (RGB)
+Black:11,11,16
 Grey:252526 (RGB)
+Grey:37,37,38
 Light Grey:454547 (RGB)
+Light Grey:69,69,71
 Red:d51616 (RGB)
+Red:213,22,22
 Orange:ff622b (RGB)
+Orange:255,98,43
 Yellow:ffa92b (RGB)
+Yellow:255,169,43
 Light Blue:727ae8 (RGB)
+Light Blue:114,122,232
 Blue:2217e8 (RGB)
+Blue:34,23,232
 Pink:f763e8 (RGB)
+Pink:247,99,232
 Purple:9817e8 (RGB)
+Purple:152,23,238
 
 Lighten 1 step: +5val to R,G,B
 Darken 1 step: -5val to R,G,B
