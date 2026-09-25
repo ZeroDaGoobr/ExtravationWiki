@@ -4,6 +4,11 @@ body {
     overflow-x: hidden;
 }
 
+.HeaderSetter{
+    display: flex;
+    flex-direction:row;
+}
+
 h1, h2, h3, h4, h5, h6, hr, a, p {
     z-index: 1;
     text-align: center;
