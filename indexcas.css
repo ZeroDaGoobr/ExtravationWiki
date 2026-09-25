@@ -13,6 +13,14 @@ body {
     flex-direction: row;
 }
 
+.LogoClick {
+    position:absolute;
+    top:12px;
+    left:12px;
+    width:128px;
+    height:128px;
+}
+
 /* Light Gray (69,69,71) <Brightness:+6*5> */
 .HeaderSetter div .Donation{
     margin-left: 20px;
