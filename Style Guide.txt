@@ -1,0 +1,41 @@
+Fonts
+`````{
+font-family: 'Trebuchet MS', Arial, Verdana, sans-serif;
+`````}
+
+Main Colors
+`````
+Black:0b0b0f (RGB)
+Grey:252526 (RGB)
+Light Grey:454547 (RGB)
+Red:d51616 (RGB)
+Orange:ff622b (RGB)
+Yellow:ffa92b (RGB)
+Light Blue:727ae8 (RGB)
+Blue:2217e8 (RGB)
+Pink:f763e8 (RGB)
+Purple:9817e8 (RGB)
+
+Lighten 1 step: +5val to R,G,B
+Darken 1 step: -5val to R,G,B
+(make sure to note how many steps Lightend / Darkened as a comment:
+Written <Brightness:N*5>
+where N is how many steps, if darkened, write N as a negative number EG:
+<Brightness:-4*5> = -20)
+````
+
+Writing Style
+```
+Relaxed and Joking Prefered, though Any Writing Style Works
+```
+
+HTML Sizes
+```
+<h1>
+<h2>
+<h4>
+<h6>
+<p>
+
+use <h3> and <h5> in specifics Occasions, eg adding flair.
+```
